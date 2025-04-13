@@ -4,14 +4,14 @@ div#tv-radio {
     width: 900px;
     height: 580px;
     margin: auto;
-    background: url(../_imagens/radio-tv.png) no-repeat;
+    background: url(../_img/radio-tv.png) no-repeat;
 }
 
 audio#musica {
     display: block;
     position: relative;
     left: 575px;
-    top: 495px;
+    top: 489px;
     width: 300px;
 }
 
